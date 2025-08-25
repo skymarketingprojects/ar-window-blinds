@@ -41,9 +41,10 @@ body {
 }
 
 /* Hero Section */
+
+
 .hero {
-  height: 100vh;
-  background: url('images/windowBlind.jpg') center/contain no-repeat;
+  width :100vw;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -51,7 +52,10 @@ body {
   position: relative;
 }
 
-
+.hero>img {
+  width: 100%;
+  height: auto;
+}
 
 
 /* Design Section */
