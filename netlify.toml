@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+
+[settings]
+  domain = "windowblind.arfurnishing.com"
